@@ -17,7 +17,7 @@
       "log_group_name": "${module.stackgen_3f6a8f2d-0460-5170-a578-e577ccd651f4.name}",
       "memory_size": 128,
       "role": "${module.stackgen_49a4100c-a736-54cc-ab9d-bfebad39181e.arn}",
-      "runtime": "python3.8",
+      "runtime": "nodejs16.x",
       "s3_bucket": "lambda-artifacts-410314652c97099c",
       "s3_key": "9eec123306115f41b5e706e087566fc0",
       "s3_object_version": null,
