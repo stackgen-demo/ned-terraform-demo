@@ -1,1 +1,0 @@
-# ned-terraform-demo
