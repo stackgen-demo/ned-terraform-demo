@@ -9,7 +9,7 @@
       "environment_variables": {},
       "event_source_arn": null,
       "event_source_mapping": [],
-      "filename": null,
+      "filename": "whateva.zip",
       "function_name": "stackgen_95b38c-function",
       "handler": "main.lambda_handler",
       "image_uri": null,
@@ -23,7 +23,7 @@
       "s3_object_version": null,
       "source": "./modules/aws_lambda",
       "system_log_level": null,
-      "tags": null,
+      "tags": {},
       "timeout": 3
     },
     "stackgen_3f6a8f2d-0460-5170-a578-e577ccd651f4": {
