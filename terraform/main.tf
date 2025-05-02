@@ -16,7 +16,7 @@ module "stackgen_261cb23c-78ee-5893-b004-4faec35785e0" {
   log_group_name        = "$${module.stackgen_3f6a8f2d-0460-5170-a578-e577ccd651f4.name}"
   memory_size           = 128
   role                  = "$${module.stackgen_49a4100c-a736-54cc-ab9d-bfebad39181e.arn}"
-  runtime               = "nodejs18.x"
+  runtime               = "nodejs20.x"
   s3_bucket             = "ambda-artifacts-410314652c97099c"
   s3_key                = "9eec123306115f41b5e706e087566fc0"
   s3_object_version     = null
