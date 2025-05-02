@@ -50,6 +50,6 @@ module "stackgen_8a0fc4de-e005-55cb-90aa-4f8d0f81c7ff" {
   name                  = "stackgen_7a9ad7-role"
   path                  = null
   permissions_boundary  = null
-  tags                  = null
+  tags                  = {}
 }
 
