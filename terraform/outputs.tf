@@ -1,45 +1,47 @@
-output "aws_cloudwatch_log_group_stackgen_42593e1d-64a5-5f82-94d3-e1278a342207_arn" {
-  value     = module.stackgen_42593e1d-64a5-5f82-94d3-e1278a342207.arn
+
+output "aws_cloudwatch_log_group_stackgen_c891ca9d-79be-5a2c-b4bd-232b8c1f97bf_arn" {
+  value = module.stackgen_c891ca9d-79be-5a2c-b4bd-232b8c1f97bf.arn
   sensitive = false
 }
 
-output "aws_cloudwatch_log_group_stackgen_42593e1d-64a5-5f82-94d3-e1278a342207_name" {
-  value     = module.stackgen_42593e1d-64a5-5f82-94d3-e1278a342207.name
+output "aws_cloudwatch_log_group_stackgen_c891ca9d-79be-5a2c-b4bd-232b8c1f97bf_name" {
+  value = module.stackgen_c891ca9d-79be-5a2c-b4bd-232b8c1f97bf.name
   sensitive = false
 }
 
-output "aws_iam_role_stackgen_8a0fc4de-e005-55cb-90aa-4f8d0f81c7ff_arn" {
-  value     = module.stackgen_8a0fc4de-e005-55cb-90aa-4f8d0f81c7ff.arn
+
+output "aws_iam_role_stackgen_64ca482e-ecf1-5af4-bd9f-550bc76af134_arn" {
+  value = module.stackgen_64ca482e-ecf1-5af4-bd9f-550bc76af134.arn
   sensitive = false
 }
 
-output "aws_iam_role_stackgen_8a0fc4de-e005-55cb-90aa-4f8d0f81c7ff_name" {
-  value     = module.stackgen_8a0fc4de-e005-55cb-90aa-4f8d0f81c7ff.name
+output "aws_iam_role_stackgen_64ca482e-ecf1-5af4-bd9f-550bc76af134_name" {
+  value = module.stackgen_64ca482e-ecf1-5af4-bd9f-550bc76af134.name
   sensitive = false
 }
 
-output "aws_lambda_stackgen_448b96b3-953c-53d9-99ca-2252fb700b03_arn" {
-  value     = module.stackgen_448b96b3-953c-53d9-99ca-2252fb700b03.arn
+
+output "aws_lambda_stackgen_7217f5c7-1260-5dfe-9aa9-7374f6836958_arn" {
+  value = module.stackgen_7217f5c7-1260-5dfe-9aa9-7374f6836958.arn
   sensitive = false
 }
 
-output "aws_lambda_stackgen_448b96b3-953c-53d9-99ca-2252fb700b03_function_arn" {
-  value     = module.stackgen_448b96b3-953c-53d9-99ca-2252fb700b03.function_arn
+output "aws_lambda_stackgen_7217f5c7-1260-5dfe-9aa9-7374f6836958_function_arn" {
+  value = module.stackgen_7217f5c7-1260-5dfe-9aa9-7374f6836958.function_arn
   sensitive = false
 }
 
-output "aws_lambda_stackgen_448b96b3-953c-53d9-99ca-2252fb700b03_function_name" {
-  value     = module.stackgen_448b96b3-953c-53d9-99ca-2252fb700b03.function_name
+output "aws_lambda_stackgen_7217f5c7-1260-5dfe-9aa9-7374f6836958_function_name" {
+  value = module.stackgen_7217f5c7-1260-5dfe-9aa9-7374f6836958.function_name
   sensitive = false
 }
 
-output "aws_lambda_stackgen_448b96b3-953c-53d9-99ca-2252fb700b03_function_url" {
-  value     = module.stackgen_448b96b3-953c-53d9-99ca-2252fb700b03.function_url
+output "aws_lambda_stackgen_7217f5c7-1260-5dfe-9aa9-7374f6836958_function_url" {
+  value = module.stackgen_7217f5c7-1260-5dfe-9aa9-7374f6836958.function_url
   sensitive = false
 }
 
-output "aws_lambda_stackgen_448b96b3-953c-53d9-99ca-2252fb700b03_invoke_arn" {
-  value     = module.stackgen_448b96b3-953c-53d9-99ca-2252fb700b03.invoke_arn
+output "aws_lambda_stackgen_7217f5c7-1260-5dfe-9aa9-7374f6836958_invoke_arn" {
+  value = module.stackgen_7217f5c7-1260-5dfe-9aa9-7374f6836958.invoke_arn
   sensitive = false
 }
-
